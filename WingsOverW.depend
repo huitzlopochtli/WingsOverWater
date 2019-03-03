@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1482594540 source:c:\users\peeya\desktop\opengl\newproject1\wingsoverw\main.cpp
+1551615801 source:c:\users\peeya\source\repos\wingsoverwater\main.cpp
 	<iostream>
 	<string>
 	<string.h>
@@ -10,16 +10,16 @@
 	<windows.h>
 	<GL\glut.h>
 
-1341006776 c:\program files (x86)\codeblocks\mingw\include\string.h
+1341010376 c:\program files (x86)\codeblocks\mingw\include\string.h
 	<_mingw.h>
 	<stddef.h>
 
-1341006770 c:\program files (x86)\codeblocks\mingw\include\_mingw.h
+1341010370 c:\program files (x86)\codeblocks\mingw\include\_mingw.h
 
-1341006774 c:\program files (x86)\codeblocks\mingw\include\math.h
+1341010374 c:\program files (x86)\codeblocks\mingw\include\math.h
 	<_mingw.h>
 
-1341006776 c:\program files (x86)\codeblocks\mingw\include\stdlib.h
+1341010376 c:\program files (x86)\codeblocks\mingw\include\stdlib.h
 	<_mingw.h>
 	<stddef.h>
 
@@ -138,7 +138,7 @@
 
 1301111158 c:\program files (x86)\codeblocks\mingw\include\rpcnterr.h
 
-1341006772 c:\program files (x86)\codeblocks\mingw\include\excpt.h
+1341010372 c:\program files (x86)\codeblocks\mingw\include\excpt.h
 	<_mingw.h>
 	<windef.h>
 
@@ -217,7 +217,7 @@
 1301111156 c:\program files (x86)\codeblocks\mingw\include\oleidl.h
 	<objfwd.h>
 
-976695720 c:\program files (x86)\codeblocks\mingw\include\gl\glut.h
+1551623001 c:\program files (x86)\codeblocks\mingw\include\gl\glut.h
 	<windows.h>
 	<GL/gl.h>
 	<GL/glu.h>
@@ -227,15 +227,4 @@
 1301111164 c:\program files (x86)\codeblocks\mingw\include\gl\glu.h
 	<stddef.h>
 	<GL/gl.h>
-
-1482730953 source:c:\users\student\desktop\wingsoverw\main.cpp
-	<iostream>
-	<string>
-	<string.h>
-	<cstring>
-	<cstdio>
-	<math.h>
-	<stdlib.h>
-	<windows.h>
-	<GL\glut.h>
 
